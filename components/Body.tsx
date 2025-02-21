@@ -5,6 +5,7 @@ import Contact from './Contact';
 import Design from './Design';  
 import Catslider from './Catslider';  
 import Carousel from './Carousel';  
+import ProductList from './ProductList';  
 
 
 
@@ -142,8 +143,7 @@ const Body = () => {
         <Carousel /> 
         <Catslider /> 
         <ProductArrival />
-        {/* <ProductList />
-        <ProductList1 /> */}
+        <ProductList /> 
         <Design />
           
 

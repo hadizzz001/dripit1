@@ -43,8 +43,7 @@ const CarCard = ({ temp }: CarCardProps) => {
                                         href={`/product?id=${_id}`}
                                         className="br_text-current br_no-underline"
                                     >
-                                        <h2>{title}</h2><br />
-
+                                        {title}<br/>
                                         <span>${price}</span>
                                         <span
                                             className="br_absolute br_inset-0 br_z-10"

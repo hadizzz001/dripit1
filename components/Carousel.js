@@ -43,7 +43,7 @@ const MyCarousel = () => {
                 className="w-full h-screen object-cover transition-transform duration-[4000ms] ease-in-out scale-110"
               />
               <div className="absolute inset-0 flex flex-col items-center justify-center  text-black text-center">
-                <h1 className="text-black text-8xl font-bold uppercase animate-slideInLeft">
+                <h1 className="text-black text-5xl font-bold uppercase animate-slideInLeft">
                   {slide.topLine}
                 </h1>
                 <p className="text-3xl mt-2 uppercase animate-slideInLeft delay-200">

@@ -42,7 +42,7 @@ const CarCard = ({ temp }: CarCardProps) => {
                                         href={`/search?cat=${name}`}
                                         className="br_text-current br_no-underline"
                                     >
-                                        <h2>{name}</h2><br /> 
+                                        <h4>{name}</h4><br /> 
                                         <span
                                             className="br_absolute br_inset-0 br_z-10"
                                         />

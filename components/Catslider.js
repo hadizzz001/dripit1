@@ -50,8 +50,8 @@ const YourComponent = () => {
 
                             <div className="  ProductTile-SliderContainer ProductTile-SliderContainer--YMAL px-3" data-product-list-category="ymal-slider">
 
-                                <div className="ProductTile-SliderContainer-Title br_text-3xl-serif br_text-[#333] "   >
-                                     <h1>Our Categories</h1> 
+                                <div className="mb-5 ProductTile-SliderContainer-Title br_text-3xl-serif br_text-[#333] "   >
+                                     <h3>Our Categories</h3> 
                                 </div>
 
                                 {allTemps.length > 0 ? (
