@@ -174,9 +174,9 @@ const Page = () => {
   return (
     <>
       <head>
-        <meta property="og:title" content="Senses" />
+        <meta property="og:title" content="Dripit" />
         <meta property="og:url" content="https://abbasbaba.com/" />
-        <meta property="og:site_name" content="At Senses, we're reshaping the way businesses connect." />
+        <meta property="og:site_name" content="At Dripit, we're reshaping the way businesses connect." />
         <meta property="og:image" content={imgg} />
  
 

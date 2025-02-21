@@ -35,15 +35,15 @@ export default function RootLayout({
   />
   <meta content="max-image-preview:large" name="robots" />
   <title>
-    Senses
+    Dripit
   </title>
   <meta
-    content="At Senses, we're reshaping the way businesses connect."
+    content="At Dripit, we're reshaping the way businesses connect."
     name="description" 
   />
-  <meta content="Senses" name="keywords" property="abbasbaba, shoes, men, women" />
+  <meta content="Dripit" name="keywords" property="abbasbaba, shoes, men, women" />
   <meta
-    content="Senses"
+    content="Dripit"
     name=""
     property="og:title"
   />
@@ -54,7 +54,7 @@ export default function RootLayout({
   />
   <meta content="website" name="" property="og:type" />
   <meta
-    content="At Senses, we're reshaping the way businesses connect."
+    content="At Dripit, we're reshaping the way businesses connect."
     name=""
     property="og:description"
   />

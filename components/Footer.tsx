@@ -179,7 +179,7 @@ const Footer = () => {
                             {/* <li>
                                 <a
                                     target="_blank"
-                                    href="https://www.instagram.com/Senses.lb/"
+                                    href="https://www.instagram.com/Dripit.lb/"
                                     data-auto-id="true"
                                     id="page-footer-http-www-instagram-com-bellroy-1"
                                 >
@@ -392,18 +392,18 @@ const Footer = () => {
                                     <span>
                                         Contact{" "}
                                         <a
-                                            href="mailto:info@Senses-lb.com"
+                                            href="mailto:info@Dripit-lb.com"
                                             data-auto-id="true"
                                             id="page-footer-mailto-support-bellroy-com-1"
                                         >
-                                            info@Senses-lb.com
+                                            info@Dripit-lb.com
                                         </a>
                                     </span>
                                 </p>
                             </div>
                             <div className="column">
                                 <span className="copyright">
-                                    All rights reserved © {(new Date().getFullYear())} Senses
+                                    All rights reserved © {(new Date().getFullYear())} Dripit
                                 </span>
                             </div>
                         </div>
